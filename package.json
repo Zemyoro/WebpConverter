@@ -1,0 +1,15 @@
+{
+  "name": "webpconverter",
+  "version": "1.0.0",
+  "description": "Convert webp images to png (Directory based)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node ."
+  },
+  "author": "Zemyoro",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dwebp-bin": "^2.0.1"
+  }
+}
