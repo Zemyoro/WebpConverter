@@ -1,6 +1,6 @@
 {
   "name": "webpconverter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert webp images to png (Directory based)",
   "type": "module",
   "main": "index.js",
